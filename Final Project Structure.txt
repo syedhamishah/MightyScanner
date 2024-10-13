@@ -1,0 +1,15 @@
+MightyScanner/
+│
+├── mighty_scanner.py
+├── scanner.py
+├── vulnerability_checker.py
+├── report_generator.py
+├── training_module.py
+├── best_practices.py
+├── remediation_suggestions.py
+├── compliance_checker.py
+├── threat_intelligence.py
+├── user_management.py
+├── feedback_system.py
+├── requirements.txt
+└── README.md
